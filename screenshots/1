@@ -1,1 +1,10 @@
 
+screenshots of both postman and mongoDB 
+
+it displays the content after performing the appropriate operations.
+
+firstly it gets the all posts that are present in db.
+next user creates his own post and posts his post and it gets saved in the database.
+next if the user want specific post then, after /posts/:id it must contain any id of the post to be displayed.
+next similar to :id it gets the id of the post to delete and removes that post from DB.
+finally updation comes, if user wants to update the title of the post then with the writen code it performs the update operation neatly.
